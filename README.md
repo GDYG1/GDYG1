@@ -5,9 +5,9 @@
 <br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
-- 🔭 我是一名前端攻城狮
+- 🔭 我是一名前端工程师
 - 🌱 我目前正在学习web3相关技术
-- 💬 欢迎向我提问和交流。
+- 💬 欢迎向我提问和交流
 
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GDYG1&show_icons=true&theme=dark" alt="GDYG1" /> 
